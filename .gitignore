@@ -1,0 +1,10 @@
+# Игнорировать виртуальное окружение
+venv/
+env/
+.venv/
+
+# Игнорировать кэш pip
+.pip_cache/
+
+# НЕ игнорировать requirements.txt
+!requirements.txt
